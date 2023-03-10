@@ -1,0 +1,117 @@
+.sidebar{
+    padding-top: 1.8rem;
+    display: flex;
+    flex-direction: column;
+    background: rgb(64, 0, 173);
+
+background: linear-gradient(180deg, rgb(81, 3, 160) 0%, rgb(108, 2, 214) 100%);
+
+background: -moz-linear-gradient(180deg, rgb(81, 3, 160) 0%, hsla(08, 2, 214, 1) 100%);
+
+background: -webkit-linear-gradient(180deg, hsla(106, 3, 210, 1) 0%, hsla(08, 2, 214, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5100FF", endColorstr="#7930FF", GradientType=1 );
+position: relative;
+border-top-right-radius: 2rem;
+border-bottom-right-radius: 2rem;
+}
+.sidebar .menu .menu-item ul li{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+}
+.sidebar .menu .menu-item ul li.active{
+    background:#fff;
+    color: black;
+    margin-left: -10px;
+    padding: 8px 0 10px 10px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    gap: 10px;
+    color: white;
+    padding-bottom: 1rem;
+}
+.logo img{
+    width: 15%;
+}
+.logo > span{
+    font-family: 'Baloo 2', cursive;
+}
+
+.menu{
+  display: flex;
+  flex-direction: column; 
+  margin-top: 2rem; 
+  margin-left: 1.5rem;
+}
+
+
+.menu-item{
+   margin: 10px 0 8px 0;
+   color: white;
+  
+}
+
+.menu p{
+    font-size: 10px;
+    color:#b5b5b5; 
+    margin-top: 5px; 
+}
+
+.icons{
+    font-size: 14px;
+    color: #44c1f7;
+}
+.menu-item ul li{
+    list-style: none;
+    width: 100%;
+}
+.menu-item ul li > span{
+   font-size: 12px;
+    margin-left: 5px;
+}
+
+
+
+
+.help-center{
+    width: 130px;
+    height: 230px;
+    border-radius: 10px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.219);
+  backdrop-filter:  blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.help-center> h6{
+    padding: 8px 0 5px 8px;
+    color:#fff;
+    font-weight: 500;
+}
+.help-center> p{
+    padding: 0 0 5px 8px;
+    font-size: 10px;
+    color:#fff;
+}
+
+button{
+    margin-left: 8px;
+    margin-top: 7px;
+    padding: 2px 12px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color:#fff;
+    background-color: #44c1f7;
+}
+.help-center img{
+    width: 100%;
+}
+
+

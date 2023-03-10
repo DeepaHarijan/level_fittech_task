@@ -1,0 +1,62 @@
+.table-section{
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding-left: 10px;
+}
+
+
+.t-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.t-header h5{
+    padding: 8px;
+}
+
+.day{
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    padding: 5px;
+    width: 50%;
+    font-size: 12px;
+}
+
+table {
+    
+    width: 100%;
+    font-size: 12px;
+
+  }
+  
+  th, td {
+    padding: 3px 3px 3px 3px;
+    text-align: left;
+    
+  }
+
+  th{
+    color: rgb(194, 194, 194);
+    font-weight: 500;
+  }
+
+  .table-cell  img{
+    width:5%;
+    border-radius: 50%;
+    
+  }
+
+  .image-cell{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+
+  
+  
+
+  
