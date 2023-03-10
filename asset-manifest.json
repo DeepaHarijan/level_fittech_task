@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/level_fittech_task/static/css/main.8f30a97f.css",
+    "main.js": "/level_fittech_task/static/js/main.6da9a107.js",
+    "static/js/787.c1a0c29c.chunk.js": "/level_fittech_task/static/js/787.c1a0c29c.chunk.js",
+    "static/media/man-laptop.png": "/level_fittech_task/static/media/man-laptop.e61fccfcd240be0df617.png",
+    "static/media/pic-1.png": "/level_fittech_task/static/media/pic-1.5d5e42bfc8bc3622b556.png",
+    "static/media/airnowlogo.png": "/level_fittech_task/static/media/airnowlogo.dd3236dc9b0062ae0855.png",
+    "static/media/logo-circle4.png": "/level_fittech_task/static/media/logo-circle4.46a7e0d478d5e6dd717f.png",
+    "static/media/webmoney.png": "/level_fittech_task/static/media/webmoney.f615fd6344ba3a0557a7.png",
+    "static/media/qiwi.png": "/level_fittech_task/static/media/qiwi.f105f16348eafcac0052.png",
+    "static/media/logo-circle3.png": "/level_fittech_task/static/media/logo-circle3.f06282135329bbbedca1.png",
+    "static/media/mastercard.png": "/level_fittech_task/static/media/mastercard.7183db1c88ab6cee7ec0.png",
+    "static/media/logo-circle1.png": "/level_fittech_task/static/media/logo-circle1.551695bf0de402a03a48.png",
+    "index.html": "/level_fittech_task/index.html",
+    "main.8f30a97f.css.map": "/level_fittech_task/static/css/main.8f30a97f.css.map",
+    "main.6da9a107.js.map": "/level_fittech_task/static/js/main.6da9a107.js.map",
+    "787.c1a0c29c.chunk.js.map": "/level_fittech_task/static/js/787.c1a0c29c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f30a97f.css",
+    "static/js/main.6da9a107.js"
+  ]
+}
